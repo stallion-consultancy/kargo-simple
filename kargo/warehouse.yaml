@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/smahalingam/guestbook
+      repoURL: ghcr.io/stallion-consultancy/guestbook
       imageSelectionStrategy: SemVer
